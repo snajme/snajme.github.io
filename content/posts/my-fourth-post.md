@@ -1,3 +1,9 @@
-# my fav authors 
-# Edward said 
-# Ludwig Wittgenstein
+---
+title: "My Second Post"
+date: 2023-08-02T17:24:27+03:30
+draft: true
+--- 
+
+# my favourit authors 
+Edward said -
+Ludwig Wittgenstein
