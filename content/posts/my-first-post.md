@@ -1,7 +1,8 @@
 ---
-title: "My First Post"
+title: "Effective NLP ML pipelines"
 date: 2023-08-02T17:24:27+03:30
 draft: false
 ---
 
-## How does Pinterest benefit by borrowing links from Facebook? 
+## Effective NLP ML pipelines: what are the characteristics ? 
+
