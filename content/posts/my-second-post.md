@@ -5,4 +5,5 @@ draft: false
 ---
 
 ## Capsule Networks: How do they work?
+Capsule Networks have better identification capabilities than convolutional Neural Networks. The latter does not identify the correct placements of the items on the images.  
 
