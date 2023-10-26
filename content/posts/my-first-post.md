@@ -6,3 +6,4 @@ draft: false
 
 ## Effective NLP ML pipelines: what are the characteristics ? 
 
+One of the main important features of a reliable ML NLP pipeline is that it should incorporate the elements of  MLOps.
