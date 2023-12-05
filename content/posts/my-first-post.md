@@ -9,6 +9,14 @@ draft: True
 One of the main important features of a reliable ML NLP pipeline is that it should incorporate the elements of  MLOps. NlPp pipelines are a series of interconnected data processing components that work together
 analyze natural language data using machine learning techniques. 
 
+
+### just note-taking 
+
+Remote surveys for medical natural language processing are costly, especially if the demand is for a new domain in the medical spectrum. The process of collecting natural language processing medical knowledge requires expanding and transforming the questions when the group of researchers can respond spontaneously across a wide demographic area. When the survey asks for sensitive information the whole standard of data acquisition changes, to effectively collect medical data a portfolio of remote methods should be leveraged.
+For instance, chatbots have the advantage of delivering intervention and acute interactions. The other benefit of using a chatbot to collect a certain type of NLP medical knowledge is its capacity of replicate the interaction occurring between the patients and the doctors of other medical staff. Beside this with the data acquisition through chatbots it is possible to develop the context around the specific medical domain. 
+
+####
+
 ### What does pipeline mean in the context of natural language processing? 
 
 This included several stages. The initialization of the pipeline commences with the data collection. [talk about advanced data collection techniques in NLP]
